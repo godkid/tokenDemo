@@ -1,0 +1,39 @@
+{
+  "name": "CryptoDragon #3",
+  "description": "A legendary collection of fiery CryptoDragons roaming the blockchain.",
+  "image": "https://www.bitmart.com/static-file/public/coin/f42404aa703aa98e27fc63e5-20251125070436.jpeg",
+  "external_url": "https://yourwebsite.com/dragon/3",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Drake"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Canyon"
+    },
+    {
+      "trait_type": "Horn Type",
+      "value": "Single Rhino Horn"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rocky Plates"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Defense",
+      "value": 92,
+      "display_type": "number"
+    }
+  ]
+}

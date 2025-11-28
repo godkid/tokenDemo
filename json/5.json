@@ -1,0 +1,39 @@
+{
+  "name": "CryptoDragon #5",
+  "description": "A legendary collection of fiery CryptoDragons roaming the blockchain.",
+  "image": "ipfs://QmXB4v6VrD4T6H8J9K0L1M2N3B4C5X6Z7A8S9D0F1G2H3J4K/5.png",
+  "external_url": "https://yourwebsite.com/dragon/5",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Whelp"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Void",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Nebula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glowing Purple"
+    },
+    {
+      "trait_type": "Special Effect",
+      "value": "Phasing"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Magic Power",
+      "value": 75,
+      "display_type": "number"
+    }
+  ]
+}

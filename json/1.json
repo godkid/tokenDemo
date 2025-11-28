@@ -1,0 +1,35 @@
+{
+    "name": "CryptoDragon #1",
+    "description": "A legendary collection of fiery CryptoDragons roaming the blockchain.",
+    "image": "https://www.bitmart.com/static-file/public/coin/a7f066c4f260a69a732d79ea-20251007053310.jpeg",
+    "external_url": "https://yourwebsite.com/dragon/1",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Dragon"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Fire",
+        "display_type": "string"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Volcanic Crater"
+      },
+      {
+        "trait_type": "Mane Color",
+        "value": "Crimson"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary",
+        "display_type": "string"
+      },
+      {
+        "trait_type": "Attack Power",
+        "value": 98,
+        "display_type": "number"
+      }
+    ]
+  }

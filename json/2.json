@@ -1,0 +1,35 @@
+{
+  "name": "CryptoDragon #2",
+  "description": "A legendary collection of fiery CryptoDragons roaming the blockchain.",
+  "image": "https://www.bitmart.com/static-file/public/coin/c25716af339fa0172456ceea-20250820074135.jpeg",
+  "external_url": "https://yourwebsite.com/dragon/2",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Wyvern"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Ice",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Frozen Peak"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Icy Membrane"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 85,
+      "display_type": "number"
+    }
+  ]
+}

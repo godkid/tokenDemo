@@ -1,0 +1,35 @@
+{
+  "name": "CryptoDragon #4",
+  "description": "A legendary collection of fiery CryptoDragons roaming the blockchain.",
+  "image": "ipfs://QmXB4v6VrD4T6H8J9K0L1M2N3B4C5X6Z7A8S9D0F1G2H3J4K/4.png",
+  "external_url": "https://yourwebsite.com/dragon/4",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Lizard"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Stormy Clouds"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lightning Orb"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Agility",
+      "value": 88,
+      "display_type": "number"
+    }
+  ]
+}
